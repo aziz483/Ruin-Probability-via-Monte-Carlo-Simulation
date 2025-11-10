@@ -1,11 +1,11 @@
-# 🧮 Simulation du Modèle de Ruine de Cramér-Lundberg
+# Simulation du Modèle de Ruine de Cramér-Lundberg
 
 Un projet Python illustrant la modélisation du **risque actuariel** à travers le modèle de ruine classique de **Cramér-Lundberg**.  
 Ce projet a pour objectif d’estimer la **probabilité de ruine** d’une compagnie d’assurance par simulation Monte Carlo et de visualiser l’évolution du capital assurantiel dans le temps.
 
 ---
 
-## 📘 Description du modèle
+## Description du modèle
 
 Le modèle de Cramér-Lundberg décrit l’évolution du capital d’une compagnie d’assurance :
 \[
@@ -25,7 +25,7 @@ Le but est d’estimer la **probabilité de ruine avant un horizon \( T \)** :
 
 ---
 
-## 🚀 Fonctionnalités principales
+## Fonctionnalités principales
 
 - **Simulation du capital** \(U(t)\) jusqu’à la ruine ou l’horizon \(T\)
 - **Estimation Monte Carlo** de la probabilité de ruine
@@ -38,5 +38,5 @@ Le but est d’estimer la **probabilité de ruine avant un horizon \( T \)** :
 
 ---
 
-## 🧩 Structure du projet
+## Structure du projet
 
